@@ -1,3 +1,6 @@
+This is the first project i've ever made with my father when i'm in highschool.
+I recreated this game becaue i want to remember my childhood when im playing tetris.
+
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 This demo project contains a bouncing ball raylib example program.
